@@ -19,7 +19,7 @@
 <body>
 <!--Navigation-->
 <nav class="navbar navbar-expand-sm sticky-top navbar-dark" style = "background: black;">
-    <a href="#" class="navbar-brand"><img style="width:85;height:50px;" src="images/dklogo.png"></a>
+    <a href="#" class="navbar-brand"><img style="width:75px;height:75px;" src="images/dklogo.png"></a>
     <!-- Button called when (navbar-expand-sm) small screen and populate it with id="navbarMenu"--> 
     <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
         <span class="navbar-toggler-icon "></span>
@@ -47,29 +47,51 @@
 </nav>
 
 
-
-<div class="row text-center" style="background-color : black;">
-	<div class="hidden-md col-md-4" >
+<!--For laptops and Desktops-->
+<div class="row text-center pb-3" style="background-color : black;">
+	<!-- Block on small devices-->
+	<div class="d-none d-sm-block col-md-4" >
 		<video  class="embed-responsive " style="height : 400px;" autoplay muted loop id="vid">
 		  <source src="images/NN_video.mp4" type="video/mp4">
 		</video>
 	</div>
 	
-	<div class=" col-xs-12 col-md-4 mt-4" >
-		<p class="text-monospace mt-4" style="color:white; font-size:40px;"><b>Dheeraj Komandur</b></p>
+	<div class="d-none d-sm-block col-md-4 mt-4" >
+		<p class="text-monospace mt-4"><b><h2  style="color:white;">Dheeraj Komandur</h2></b></p>
 		<hr style="background-color:gray;">
-		<p class="text-monospace mt-2" style="color:white; font-size:20px;"><b>Third Year Computer Science Student</b></p>
-		<p class="text-monospace mt-2" style="color:white; font-size:20px;">Machine learning enthusiast</p>
-		<p class="text-monospace mt-2" style="color:white; font-size:20px;">Web & App Developer </p>
+		<p class="text-monospace mt-2" ><b><h4  style="color:white;">Third Year Computer Science Student</h4></b></p>
+		<p class="text-monospace mt-2" ><h5  style="color:white;">Machine learning enthusiast</h5></p>
+		<p class="text-monospace mt-2" ><h5  style="color:white;">Web & App Developer </h5></p>
 		<br>
 		<button class="btn btn-outline-primary btn-lg"><i class="fa fa-download"></i> &nbsp &nbsp  Download Resume   </button>
 	</div>
 	
-	<div class="col-xs-12 col-md-4 mt-5">
-		<img class="img-responsive rounded-circle z-depth-2" alt="100x100" src="images/dkphoto.jpg "
+	<div class="d-none d-sm-block col-md-4 mt-5">
+		<img class="img-responsive rounded-circle z-depth-2" alt="100x100" src="images/pic.jpeg "
           data-holder-rendered="true" style="height : 250px;">
 	</div>
 </div>
+
+<!--For Phone-->
+<div class="row text-center pb-3 pl-3" style="background-color : black;">
+	<div class="d-md-none  col-md-4 mt-5">
+		<img class="img-responsive rounded-circle z-depth-2" alt="100x100" src="images/pic.jpeg "
+          data-holder-rendered="true" style="height : 250px;">
+	</div>
+	
+	<div class="d-md-none col-md-4 mt-4" >
+		<p class="text-monospace mt-4"><b><h2  style="color:white;">Dheeraj Komandur</h2></b></p>
+		<hr style="background-color:gray;">
+		<p class="text-monospace mt-2" ><b><h4  style="color:white;">Third Year Computer Science Student</h4></b></p>
+		<p class="text-monospace mt-2" ><h5  style="color:white;">Machine learning enthusiast</h5></p>
+		<p class="text-monospace mt-2" ><h5  style="color:white;">Web & App Developer </h5></p>
+		<br>
+		<button class="btn btn-outline-primary btn-lg"><i class="fa fa-download"></i> &nbsp &nbsp  Download Resume   </button>
+	</div>
+	
+
+</div>
+
 
 <div>
     <a id="education"></a>
