@@ -1,2 +1,0 @@
-# dheerajkomandur
-Personal Portfolio
