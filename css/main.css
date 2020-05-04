@@ -1492,7 +1492,7 @@ header .logo a {
  */
 #about {
 	background: #FFFFFF;
-	padding-top: 12rem;
+	padding-top: 7rem;
 	padding-bottom: 10rem;
 }
 #about .section-intro {
@@ -1792,7 +1792,7 @@ header .logo a {
  */
 #portfolio {
 	background: #FFFFFF;
-	padding-top: 12rem;
+	padding-top: 5rem;
 	padding-bottom: 12rem;
 }
 #portfolio .folio-item {
@@ -2252,7 +2252,7 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
+	padding-top: 2rem;
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {

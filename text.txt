@@ -1,0 +1,96 @@
+	<!--Certs and courses-->
+	<div class="row resume-timeline">
+
+		<div class="col-twelve resume-header">
+
+			<h2>Certificate and Courses</h2>
+
+		</div> <!-- /resume-header -->
+
+		<div class="col-twelve">
+
+			<div class="timeline-wrap">
+
+				<div class="timeline-block">
+
+					<div class="timeline-ico">
+						<i class="fi-xnluxl-envelope"></i>
+					</div>
+
+					<div class="timeline-header">
+						<h3>NPTEL - IIT Madras </h3>
+					</div>
+
+					<div class="timeline-content">
+						<h4>Deep Learning</h4>
+						<p>Foundational Mathemathics for Deep learning and Practical Implementation in Python.</p>
+					</div>
+
+				</div> <!-- /timeline-block -->
+
+				<div class="timeline-block">
+
+					<div class="timeline-ico">
+						<i class="fi-xnluxl-envelope"></i>
+					</div>
+
+					<div class="timeline-header">
+						<h3>Google and IITM</h3>
+					</div>
+
+					<div class="timeline-content">
+						<h4>TensorFlow 2.0</h4>
+						<p>Practical Machine Learning using TensorFlow 2.0.</p>					
+					</div>
+
+
+            <h3>TensorFlow 2.0</h3>
+
+		            <p class="desc"> <b>Google and IITM </b> <br/><br/>Practical Machine Learning using TensorFlow 2.0.</p>
+
+				</div> <!-- /timeline-block -->
+
+				<div class="timeline-block">
+					<div class="timeline-ico">
+						<i class="fi-xnluxl-envelope"></i>
+					</div>
+					<div class="timeline-header">
+						<h3>NPTEL - IIT Kharagpur</h3>
+					</div>
+					<div class="timeline-content">
+						<h4>Machine Learning</h4>
+						<p>Machine Learning Foundations with theory and practical Implementation.</p>
+					</div>
+				</div> <!-- /timeline-block -->
+				<div class="timeline-block">
+					<div class="timeline-ico">
+						<i class="fi-xnluxl-envelope"></i>
+					</div>
+					<div class="timeline-header">
+						<h3>Hasura and IITM</h3>
+					</div>
+					<div class="timeline-content">
+						<h4>Modern Application Development</h4>
+						<p>Intrduction to modern application development using web frameworks.</p>
+				</div>
+				</div> <!-- /timeline-block -->
+				<div class="timeline-block">
+					<div class="timeline-ico">
+						<i class="fi-xnluxl-envelope"></i>
+					</div>
+					<div class="timeline-header">
+						<h3>Skyfi labs</h3>
+					</div>
+					<div class="timeline-content">
+						<h4>Drone Development</h4>
+						<p>Learnt and built Quadcopter Drone in two-days workshop on Drone Development</p>
+				</div>
+
+				</div> <!-- /timeline-block -->
+
+			</div> <!-- /timeline-wrap -->   			
+
+		</div> <!-- /col-twelve -->
+		
+	</div>
+	<!--Certs and courses-->
