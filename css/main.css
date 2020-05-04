@@ -429,7 +429,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #FF0077;
+	background: black;
 	position: fixed;
 	z-index: 900;
 	top: 0;
