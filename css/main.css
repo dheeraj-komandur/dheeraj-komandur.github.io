@@ -1026,7 +1026,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #7d7d7d;
 }
 .section-intro {
-	max-width: 700px;
+	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -1634,7 +1634,7 @@ header .logo a {
 }
 
 #resume .resume-timeline {
-	max-width: 980px;
+	max-width: 1200px;
 }
 #resume .timeline-wrap {
 	position: relative;
